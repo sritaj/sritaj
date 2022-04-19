@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me --> mailto: "sritajp@gmail.com"
 
+[![Sritaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=sritaj)](https://github.com/sritaj/github-readme-stats)
 <!---
 sritaj/sritaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
