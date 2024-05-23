@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sritaj
 - 👀 I’m interested in learning new technologies, having a grasp on complete Software Development Life Cycle from planning, desigining, coding, testing and deployment and other aspects to it.
-- 🌱 I’m currently learning JavaScript, RestAPIs
+- 🌱 I’m currently learning more on Web Development, Unit Testing e.g. React, Jest
 - 📫 How to reach me --> mailto: "sritajp@gmail.com"
 
 [![Sritaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=sritaj&show_icons=true&theme=dark)](https://github.com/sritaj/github-readme-stats) 
